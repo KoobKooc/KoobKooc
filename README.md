@@ -72,6 +72,12 @@ GitHub 不支持直接显示 Excel 表格，欲知菜单详情，请把`一周�
 额外的选项：
 <div align=center><img src="https://github.com/KoobKooc/Images/blob/master/install-git-x.png?raw=true" width=63% height=63% /></div>
 
+<strong>Ⅲ、安装 Git 2.19.0</strong>
+
+上文安装的 Git for Windows 版本号为 2.18.0，最新版为 Git 2.19.0。两个版本的安装过程大同小异，新版 Git 的安装过程：
+
+<div align=center><img src="https://github.com/KoobKooc/Images/blob/master/install-git%20%202.19.gif?raw=true" width=81% height=81% /></div>
+
 
 ## 2、克隆项目到本地
 
