@@ -78,6 +78,8 @@ GitHub 不支持直接显示 Excel 表格，欲知菜单详情，请把`一周�
 
 <div align=center><img src="https://github.com/KoobKooc/Images/blob/master/install-git%20%202.19.gif?raw=true" width=81% height=81% /></div>
 
+> :fire::fire: **Git 2.19.0 以后的新版不再演示安装过程。** :fire::fire:
+
 
 ## 2、克隆项目到本地
 
